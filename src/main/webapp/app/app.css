@@ -1,0 +1,41 @@
+.tv-browse-text {
+	font-size: 14px;
+	margin-top: 15px;
+	margin-bottom: 20px;
+}
+
+.tv-btn .x-btn-inner {
+	font-weight: bold;
+	font-size: 12px;
+}
+
+.tv-browse-btn-icon {
+	background-image:url('../images/open_32.png');
+	background-position: 3px center !important;
+	width: 35px !important;
+}
+
+.tv-save-btn-icon {
+	background-image:url('../images/disc_32.png');
+	background-position: 3px center !important;
+	width: 35px !important;
+}
+
+.tv-channel-groups .x-panel-body {
+	background-color: transparent;
+	padding: 3px;
+}
+
+.tv-file-list li {
+	padding: 3px 0 3px 5px;
+	cursor: pointer;
+}
+
+.tv-file-selected {
+	background-color: white;
+	border-radius: 3px;
+}
+
+.tv-save-btn {
+	margin: 40px 35px;
+}
